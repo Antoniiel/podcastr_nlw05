@@ -24,7 +24,7 @@
 </ul>
   
 
-<h2 align="initial"> Funcionalidades </h2>
+<h2> Funcionalidades </h2>
 <ul>
 <li>Tocar podcast.</li>
 <li>Quando um podcast acaba, outro começa em seguida.</li>
